@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilshi Piyumika</h1>
 <h3 align="center">An undergraduate at University of Sri Jayawardenepura</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshi126&label=Profile%20views&color=0e75b6&style=flat" alt="dilshi126" /> </p>
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
