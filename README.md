@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilshi Piyumika</h1>
+<h1 align="center">Hi 👋, I'm Dilshi Wijesinghe</h1>
 <h3 align="center">An undergraduate at University of Sri Jayawardenepura</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshi126&label=Profile%20views&color=0e75b6&style=flat" alt="dilshi126" /> 
  
